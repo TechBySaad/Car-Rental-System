@@ -1,0 +1,9 @@
+Classes:
+1. Car:
+Constructor
+Variables: carId, carBrand, carModel, carPrice, isAvailable
+Getters
+Methods: rentalCalculator(), isAvailable(), rent(), returnedCar()
+2. Customer
+3. RentalSystem
+4. Main
